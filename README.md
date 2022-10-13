@@ -12,11 +12,6 @@
 
 <hr>
 
-<h2>  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Github Stats </h2>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sondosashraf&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sondosashraf&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sondosashraf&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sondosashraf&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sondosashraf&theme=2077&utcOffset=8)
-
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> My Skills</f2> 
 
 ##### 💪 Programming Languages
